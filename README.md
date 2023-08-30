@@ -4,4 +4,4 @@ NPM     : 2206811846
 
 Kelas   : PBP B
 
-Jurusan: Sistem Informasi
+Jurusan: Ilmu Sistem Informasi Komputer
